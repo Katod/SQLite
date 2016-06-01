@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katod/projects/Hello/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+syslog.h
+-
+sqlite3.h
+-
+

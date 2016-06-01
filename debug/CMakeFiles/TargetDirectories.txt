@@ -1,0 +1,7 @@
+/home/katod/projects/Hello/debug/CMakeFiles/install.dir
+/home/katod/projects/Hello/debug/CMakeFiles/list_install_components.dir
+/home/katod/projects/Hello/debug/CMakeFiles/rebuild_cache.dir
+/home/katod/projects/Hello/debug/CMakeFiles/hello.dir
+/home/katod/projects/Hello/debug/CMakeFiles/install/strip.dir
+/home/katod/projects/Hello/debug/CMakeFiles/install/local.dir
+/home/katod/projects/Hello/debug/CMakeFiles/edit_cache.dir
